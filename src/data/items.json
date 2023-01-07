@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Стілець сірий",
+        "img": "chair.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+        "category": "chairs",
+        "price": "49.99",
+        "count": 1
+    },
+    {
+        "id": 2,
+        "title": "Стіл",
+        "img": "table.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+        "category": "tables",
+        "price": "149.00",
+        "count": 1
+    },
+    {
+        "id": 3,
+        "title": "Диван",
+        "img": "sofa.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+        "category": "sofa",
+        "price": "549.99",
+        "count": 1
+    },
+    {
+        "id": 4,
+        "title": "Пуф VILDSUND",
+        "img": "poof.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+        "category": "poofs",
+        "price": "50.00",
+        "count": 1
+    },
+    {
+        "id": 5,
+        "title": "Лаунж крісло",
+        "img": "lounge-chair.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+        "category": "chairs",
+        "price": "49.99",
+        "count": 1
+    }
+]

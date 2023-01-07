@@ -1,0 +1,22 @@
+[
+  {
+    "key": "all",
+    "name": "Всі"
+  },
+  {
+    "key": "chairs",
+    "name": "Стільці"
+  },
+  {
+    "key": "tables",
+    "name": "Столи"
+  },
+  {
+    "key": "sofa",
+    "name": "Дивани"
+  },
+  {
+    "key": "poofs",
+    "name": "Пуфи"
+  }
+]
